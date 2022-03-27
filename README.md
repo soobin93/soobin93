@@ -2,7 +2,7 @@
 
 ## Happy coding everyone!
 
-I'm Soobin, full stack developer in Brisbane.
+I'm Soobin, full stack developer based in Brisbane.
 I write code for both my hobby and work ✌️
 
 ## Some of my skills

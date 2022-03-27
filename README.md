@@ -28,3 +28,5 @@ I write code for both my hobby and work ✌️
 
 ## GitHub Stats
 ![soobin93's GitHub stats](https://github-readme-stats.vercel.app/api?username=soobin93&show_icons=true&theme=dark)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
